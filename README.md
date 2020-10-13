@@ -1,4 +1,4 @@
-# mykirito-
+# mykirito-autoaction
 用AHK寫的
 總之很破
 
